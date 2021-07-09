@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Imagenes">
+        <file>Recursos/salario.png</file>
+        <file>Recursos/disquete.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Recursos/20945341.jpg</file>
+        <file>Recursos/abrir-caja.png</file>
+        <file>Recursos/agregar-archivo.png</file>
+        <file>Recursos/calculadora.png</file>
+        <file>Recursos/cerrar-sesion.png</file>
+        <file>Recursos/informacion.png</file>
+    </qresource>
+</RCC>
